@@ -19,7 +19,7 @@
                          multiplicacion= 1*numero; 
                          cout<<numero<<" x "<<i<<" = "<<multiplicacion<<endl; 
                  } 
-                 cout<<"�Quieres generar otra tabla de multiplicacion(s/n)?"; 
+                 cout<<"¿Quieres generar otra tabla de multiplicacion(s/n)?"; 
                  fflush(stdin); 
                  cin>>seguir; 
          } 
