@@ -1,0 +1,12 @@
+#include <stdlib.h>
+
+int main(){
+        printf("Nombre: América Fernanda Bautista Vega ");
+        printf("Edad:16")
+        printf("Correo: abautista2622@conalepmex.edu.mx");
+        printf("Carrera:Profesional Tecnico Bachiller en informatica");
+        printf("Modulo:Programacion basica");
+
+        return 0;
+
+}
