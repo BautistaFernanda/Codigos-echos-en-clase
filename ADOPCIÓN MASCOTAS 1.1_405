@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+ <html>
+    <head>
+    <meta name="description"content="pagina sobre adopcion de de Mascotas en Mexico,Naucalpan de Juarez">
+    <meta name="keywords"content="mascota,adopcion,mexico,naucalpan,no maltrato,cuidar mascotas">
+    <meta name="Author"content="30 segundos">
+    <title> adopta una Mascota</title>
+    <script src="js/funciones.js"></script>
+ </head>
+ <body>
+    <section id="imagen"Alt="imagen">
+        <img src="img/borrar.png" width="100%"
+    </section>
+    <section id="formulario">
+        <form id="formulario">
+           <input type="text"placeholider="username"id="caja1">
+            <input type="text"placeholider="username"id="caja2">
+            <select>
+                <option evalue="gatos">Gatos</option>
+                <option evalue="perros">perros</option>
+            </select>
+            <input type="number"min="1" max="10"
+
+        </form>
+    </section>
+ </body>
+ </html>
